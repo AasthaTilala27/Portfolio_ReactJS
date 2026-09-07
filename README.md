@@ -287,9 +287,6 @@ Portfolio_ReactJS
 │
 └── README.md
 
----
-
-<div align="center">
 
 ## ✨ Thank You for Visiting My Portfolio!
 
