@@ -58,7 +58,7 @@ The video demonstrates the complete portfolio website and its different sections
 
 The Header section contains the portfolio navigation menu and provides easy access to different sections of the website.
 
-![Header Screenshot](./src/screenshots/header.png)
+![Header Screenshot](./Portfolio_WebPage/src/screenshots/header.png)
 
 ---
 
@@ -68,7 +68,7 @@ The Home section introduces me as a **Full Stack Developer**.
 
 It contains the main introduction, profile information, buttons and hero content.
 
-![Home Screenshot](./src/screenshots/home.png)
+![Home Screenshot](./Portfolio_WebPage/src/screenshots/home.png)
 
 ---
 
@@ -78,7 +78,7 @@ The About section provides information about me, my interests and my journey in 
 
 It also contains portfolio statistics and other personal information.
 
-![About Screenshot](./src/screenshots/about-skills.png)
+![About Screenshot](./Portfolio_WebPage/src/screenshots/about-skills.png)
 
 ---
 
@@ -95,7 +95,7 @@ The Skills section displays my technical knowledge using progress bars.
 | React.js | 80% |
 | Bootstrap | 90% |
 
-![Skills Screenshot](./src/screenshots/about-skills.png)
+![Skills Screenshot](./Portfolio_WebPage/src/screenshots/about-skills.png)
 
 ---
 
@@ -115,7 +115,7 @@ The Education section presents my academic and professional learning information
 
 `Trainee`
 
-![Education Screenshot](./src/screenshots/education.png)
+![Education Screenshot](./Portfolio_WebPage/src/screenshots/education.png)
 
 ---
 
@@ -152,7 +152,7 @@ The Services section displays the different services provided through attractive
 - 🎨 Graphic Design
 - 🖥️ UI/UX Design
 
-![Services Screenshot](./src/screenshots/services.png)
+![Services Screenshot](./Portfolio_WebPage/src/screenshots/services.png)
 
 ---
 
@@ -188,7 +188,7 @@ A coffee-themed website created with a clean and attractive design.
 
 A restaurant website designed with a modern and elegant interface.
 
-![Projects Screenshot](./src/screenshots/projects.png)
+![Projects Screenshot](./Portfolio_WebPage/src/screenshots/projects.png)
 
 ---
 
@@ -198,7 +198,7 @@ The Testimonials section displays feedback from different users.
 
 The portfolio contains **three testimonial cards**, each showing user information and feedback.
 
-![Testimonials Screenshot](./src/screenshots/testimonials.png)
+![Testimonials Screenshot](./Portfolio_WebPage/src/screenshots/testimonials.png)
 
 ---
 
@@ -208,7 +208,7 @@ The Contact section allows visitors to get in touch with me.
 
 It contains contact information and a contact form for communication.
 
-![Contact Screenshot](./src/screenshots/contact.png)
+![Contact Screenshot](./Portfolio_WebPage/src/screenshots/contact.png)
 
 ---
 
@@ -218,7 +218,7 @@ The Footer is the final section of the portfolio.
 
 It contains additional portfolio information and navigation details.
 
-![Footer Screenshot](./src/screenshots/footer.png)
+![Footer Screenshot](./Portfolio_WebPage/src/screenshots/footer.png)
 
 ---
 
@@ -253,36 +253,36 @@ It contains additional portfolio information and navigation details.
 # 📂 Project Structure
 
 ```text
-Portfolio
+Portfolio_ReactJS
 │
-├── node_modules/
-│
-├── public/
-│
-├── src/
+├── Portfolio_WebPage/
 │   │
-│   ├── Components/
-│   │   ├── Header.jsx
-│   │   ├── Testimonials.jsx
-│   │   └── ...
+│   ├── public/
 │   │
-│   ├── screenshots/
-│   │   ├── about-skills.png
-│   │   ├── contact.png
-│   │   ├── education.png
-│   │   ├── footer.png
-│   │   ├── header.png
-│   │   ├── home.png
-│   │   ├── projects.png
-│   │   ├── services.png
-│   │   └── testimonials.png
+│   ├── src/
+│   │   │
+│   │   ├── Components/
+│   │   │   ├── Header.jsx
+│   │   │   ├── Testimonials.jsx
+│   │   │   └── ...
+│   │   │
+│   │   ├── screenshots/
+│   │   │   ├── about-skills.png
+│   │   │   ├── contact.png
+│   │   │   ├── education.png
+│   │   │   ├── footer.png
+│   │   │   ├── header.png
+│   │   │   ├── home.png
+│   │   │   ├── projects.png
+│   │   │   ├── services.png
+│   │   │   └── testimonials.png
+│   │   │
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
 │   │
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
+│   ├── package.json
+│   ├── package-lock.json
+│   └── vite.config.js
 │
-├── .gitignore
-├── package.json
-├── package-lock.json
-├── vite.config.js
 └── README.md
