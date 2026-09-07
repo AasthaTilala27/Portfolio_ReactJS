@@ -46,7 +46,7 @@ The website is designed using **responsive Bootstrap classes** and custom CSS so
 The complete website walkthrough video is available on Google Drive.
 
 > 🔗 **Portfolio Video:**  
-> https://drive.google.com/file/d/1C479PBSvlvUgn_8AytekWOky8Go8yMo4/view?usp=sharing
+> https://drive.google.com/file/d/1iueXU2bWTtxHFdQKfr8jb5Pl_LCmYPR0/view?usp=sharing
 
 The video demonstrates the complete portfolio website and its different sections.
 
